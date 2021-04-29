@@ -1717,7 +1717,7 @@ body::-webkit-scrollbar-thumb {
   background: purple url("https://media.giphy.com/media/2aJWj7YvyGLYjGtgbZ/giphy.gif") no-repeat center;
   z-index: 99999;
 }
-
+  
 
 
 /* -------- */
@@ -1742,7 +1742,7 @@ body::-webkit-scrollbar-thumb {
   display: inline-block;
   margin-bottom: 40px;
   padding: 10px;
-  background: white;
+  background: #ddd;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
