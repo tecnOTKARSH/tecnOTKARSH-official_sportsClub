@@ -1705,7 +1705,7 @@ body::-webkit-scrollbar-thumb {
 
 #home-body {
   animation: fadeInAnimation ease-out 0.15s;
-  animation-iteration-count: 1;
+  animation-iteration-count: 0;
   animation-fill-mode: forwards;
 }
 
