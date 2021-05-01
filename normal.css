@@ -1704,7 +1704,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 #home-body {
-  animation: fadeInAnimation ease-out 0.75s;
+  animation: fadeInAnimation ease-out 0.15s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
