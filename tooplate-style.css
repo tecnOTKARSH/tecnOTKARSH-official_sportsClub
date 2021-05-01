@@ -311,7 +311,7 @@ body::-webkit-scrollbar {
   }
   
   #home-body {
-	animation: fadeInAnimation ease-out 3.50s;
+	animation: fadeInAnimation ease-out 0.75s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
   }
