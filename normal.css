@@ -1704,8 +1704,8 @@ body::-webkit-scrollbar-thumb {
 }
 #home-body {
 	animation: fadeInAnimation ease-out 0.75s;
-	animation-iteration-count: 1;
-	animation-fill-mode: forwards;
+	/* animation-iteration-count: 1;
+	animation-fill-mode: forwards; */
   }
   
   #loader {
