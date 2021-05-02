@@ -1607,7 +1607,7 @@ footer .copyright {
 preloader
 --------------------------------------------- 
 */
-/* #preloader {
+ #preloader {
   overflow: hidden;
   background-image: linear-gradient(135deg, #a759d1 0%, #8261ee 100%);
   left: 0;
@@ -1616,8 +1616,8 @@ preloader
   bottom: 0;
   position: fixed;
   z-index: 9999;
-  color: #fff; */
-/* }
+  color: #fff; 
+ }
 
 #preloader .jumper {
   left: 0;
@@ -1684,8 +1684,7 @@ preloader
   100% {
     opacity: 0;
   }
-} */
-
+} 
 /* preloder*/
 body::-webkit-scrollbar {
   width: 0.40rem;
@@ -1702,10 +1701,10 @@ body::-webkit-scrollbar-thumb {
 .min-ht-container {
   min-height: 80vh;
 }
-#home-body {
+/* #home-body {
 	animation: fadeInAnimation ease-out 0.75s;
-	/* animation-iteration-count: 1;
-	animation-fill-mode: forwards; */
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
   }
   
   #loader {
@@ -1713,9 +1712,9 @@ body::-webkit-scrollbar-thumb {
 	width: 100%;
 	height: 100vh;
 	overflow-x: hidden;
-	background: #a759d1 url("giphy.gif") no-repeat center;
+	background: purple url("G") no-repeat center;
 	z-index: 99999;
-  }
+  } */
   
 
 
